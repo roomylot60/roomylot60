@@ -6,8 +6,11 @@ Welcome to my github
 - E-mail: min2max.dev@gmail.com
 ---
 [![My github stats](https://github-readme-stats.vercel.app/api?username=Machineric)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Metrics](/github-metrics-roomylot60.svg)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeejeaHyuk&layout=compact&theme=tokyonight)
+
 ---
 **Tech** :
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
