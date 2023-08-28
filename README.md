@@ -5,7 +5,7 @@ Welcome to my github
 - Blog: [My Github Blog](https://roomylot60.github.io.)
 - E-mail: min2max.dev@gmail.com
 ---
-[![My github stats](https://github-readme-stats.vercel.app/api?username=roomylot60)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=roomylot60&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 
 ![Metrics](/github-metrics-roomylot60.svg)
 
