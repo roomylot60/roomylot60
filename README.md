@@ -9,7 +9,7 @@ Welcome to my github
 
 ![Metrics](/github-metrics-roomylot60.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeejeaHyuk&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roomylot60&layout=compact&theme=tokyonight)
 
 ---
 **Tech** :
