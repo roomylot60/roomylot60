@@ -21,3 +21,10 @@ Welcome to my github
 <img src="https://img.shields.io/badge/scikit learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/-Java-yellowgreen"/></a> 
 <img src="https://img.shields.io/badge/-SQL-blue"/></a> 
+
+---
+### Team Projects
+- Multicampus Projects
+  - First Project : [Accidents of Portable Mobility in Seoul](https://github.com/roomylot60/Portable_Mobility_Accidents)
+  - Second Project : [Correlation of Smoking Status with Biomarkers](https://github.com/roomylot60/Biomarkers_of_Smoking)
+  - Final Project : [Residential Recommandation Sys. for MZ Generation](https://github.com/roomylot60/Recmd_RA_MZ.gen)
