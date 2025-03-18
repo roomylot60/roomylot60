@@ -18,8 +18,13 @@ Welcome to my github
 <img src="https://img.shields.io/badge/-SQL-blue"/></a> 
 
 ---
+# Projects
+## Private Projects
+- Chatbot : [Chatbot in Korean](https://github.com/roomylot60/ChatBOT)
+- Article Classification : [Naver article crawling and classification](https://github.com/roomylot60/Article_Classification)
+- TTS : [TTS with Tacotron2](https://github.com/roomylot60/TTS)
 
-# Team Projects
+## Team Projects
 - Multicampus Projects
   - First Project : [Accidents of Portable Mobility in Seoul](https://github.com/roomylot60/Portable_Mobility_Accidents)
   - Second Project : [Correlation of Smoking Status with Biomarkers](https://github.com/roomylot60/Biomarkers_of_Smoking)
